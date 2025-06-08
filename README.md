@@ -1,6 +1,6 @@
 ### Welcome to my **profile** 
 
-<img align="left" src="https://github-readme-stats-rbea-git-main-ktulufhtagn.vercel.app/api?username=ktulufhtagn&count_private=true&include_all_commits=true&show_icons=true&theme=radical">
+<img align="left" src="https://github-readme-stats-rbea-git-main-ktulus-projects.vercel.app//api?username=ktulufhtagn&count_private=true&include_all_commits=true&show_icons=true&theme=radical">
 
 ---
 ### 📍 Profile Visitor Count
